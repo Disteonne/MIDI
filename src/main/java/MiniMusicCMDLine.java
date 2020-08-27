@@ -1,3 +1,4 @@
+/*
 import  javax.sound.midi.*;
 
 public class MiniMusicCMDLine {
@@ -43,3 +44,4 @@ public class MiniMusicCMDLine {
         }
     }
 }
+ */
